@@ -1,0 +1,37 @@
+
+
+#titulo{
+    font-size: 100 px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 625px;
+}
+
+.navbar-nav.navbar-center {
+    color: azure;
+    position: absolute;
+    left: 50%;
+    background-color: #0606d7;
+    transform: translatex(-50%);
+    font-size: 20px;
+    
+}
+
+#bg-color{
+    padding: 0%;
+    background-color: blue;
+    border: 1ch;
+    border-color: black;
+}
+
+.contenido{
+    margin-right: auto;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.imagenes{
+    margin-left: 550px;
+    
+}
+
+   
+
